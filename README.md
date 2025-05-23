@@ -14,14 +14,14 @@ Interactive Input: Users enter their current mood to generate a personalized pla
 moodify.ipynb
 Contains the main program interface where users run the notebook, input moods, and receive music recommendations.
 
-• MoodAnalyzer
+• MoodAnalyzer    
   Maps user moods to a predefined list of music genres for playlist generation.
 
-• SpotifyConnect
+• SpotifyConnect   
   Handles retrieving songs by genre using Spotify’s search functionality.
 
-• PlaylistRecommender
+• PlaylistRecommender   
   Combines the MoodAnalyzer and SpotifyConnect to build playlists based on mood input.
 
-.gitignore
+.gitignore   
 Excludes environment files, virtual environments, and cache directories from version control.
