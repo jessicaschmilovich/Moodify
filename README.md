@@ -11,7 +11,7 @@ Interactive Input: Users enter their current mood to generate a personalized pla
 
 **Project Structure:**
 
-moodify.ipynb
+moodify.ipynb   
 Contains the main program interface where users run the notebook, input moods, and receive music recommendations.
 
 • MoodAnalyzer    
