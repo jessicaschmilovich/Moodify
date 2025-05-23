@@ -1,5 +1,5 @@
 # Moodify
-Moodify is a program that recommends music based on the user’s current mood. It maps each mood to a specific set of music genres, then retrieves tracks that match those genres. Users input their mood, and the program generates a playlist of songs aligned with that emotional state. It uses a mood analyzer to select genres and connects to Spotify to search for relevant tracks. The recommendations are displayed with song title, artist, and a link to listen.
+Moodify is a Python program developed in Jupyter Notebook that recommends music based on the user’s current mood. It maps each mood to a specific set of music genres, then retrieves tracks that match those genres. Users input their mood, and the program generates a playlist of songs aligned with that emotional state. It uses a mood analyzer to select genres and connects to Spotify to search for relevant tracks. The recommendations are displayed with song title, artist, and a link to listen.
 
 **Features:**
 
